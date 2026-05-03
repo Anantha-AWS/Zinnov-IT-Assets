@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "appId": "267667e1-42b6-4a4c-bb55-11916dcac083",
+  "appDisplayName": "Zinnov IT Assets",
+  "region": "prod",
+  "environmentId": "85b6c063-171b-e3e8-83db-e738fe5a260b",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
